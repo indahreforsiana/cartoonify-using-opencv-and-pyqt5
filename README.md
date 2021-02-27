@@ -4,6 +4,6 @@
 3. The image will be show at preview label, then press the process button\
 4. Process started\
 5. The image result will be show at the right of process button\
-![alt text](https://github.com/[indahreforsiana]/[cartoonify-using-opencv-and-pyqt5]/blob/[master]/Running\program.png?raw=true)
-Running program.png
+![alt text](https://github.com/[indahreforsiana]/[cartoonify-using-opencv-and-pyqt5]/blob/[master]/Running_program.png?raw=true)
+
 
