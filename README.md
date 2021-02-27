@@ -5,4 +5,5 @@
 4. Process started\
 5. The image result will be show at the right of process button\
 ![alt text](https://github.com/[indahreforsiana]/[cartoonify-using-opencv-and-pyqt5]/blob/[master]/Running\program.png?raw=true)
+Running program.png
 
